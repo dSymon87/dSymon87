@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dSymon87
+- 👋 Hi, I’m Symon Jasmin
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning computer
 - 💞️ I’m looking to collaborate on any
